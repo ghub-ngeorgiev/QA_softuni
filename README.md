@@ -1,4 +1,4 @@
-# QA_softuni
+# QA_SoftUni
 Date created - 18.06.2023
 
 This is a repo for the SoftUni QA course, started May 2023.
