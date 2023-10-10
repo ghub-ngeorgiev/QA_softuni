@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\bin\Debug\net6.0\09.Aquarium.exe
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\bin\Debug\net6.0\09.Aquarium.deps.json
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\bin\Debug\net6.0\09.Aquarium.runtimeconfig.json
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\bin\Debug\net6.0\09.Aquarium.dll
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\bin\Debug\net6.0\09.Aquarium.pdb
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.AssemblyInfo.cs
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.dll
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\refint\09.Aquarium.dll
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.pdb
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\09.Aquarium.genruntimeconfig.cache
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\09.Aquarium\obj\Debug\net6.0\ref\09.Aquarium.dll

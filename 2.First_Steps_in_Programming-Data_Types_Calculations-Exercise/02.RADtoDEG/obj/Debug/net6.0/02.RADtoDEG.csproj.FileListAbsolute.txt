@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.exe
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.deps.json
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.runtimeconfig.json
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.dll
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.pdb
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.AssemblyInfo.cs
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.dll
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\refint\02.RADtoDEG.dll
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.pdb
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.genruntimeconfig.cache
+C:\Users\User\source\repos\2.First_Steps_in_Programming-Data_Types_Calculations-Exercise\02.RADtoDEG\obj\Debug\net6.0\ref\02.RADtoDEG.dll
